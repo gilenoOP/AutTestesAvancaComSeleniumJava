@@ -27,7 +27,7 @@ jobs:
       - run: chromedriver --url-base=/wd/hub &
 
       - name: Run Test
-        run: mvn test -Dtest=**/*RunCucumberTest -Dbrowser=chrome-ci "-Dcucumber.options= --tags @logoff-sucesso"
+        run: mvn clean test -Dtest=**/*RunCucumberTest -Dbrowser=chrome-ci "-Dcucumber.options= --tags @logoff-sucesso"
 
       - name: Gerar relatório
         if: always()
