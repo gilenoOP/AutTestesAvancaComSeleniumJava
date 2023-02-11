@@ -1,0 +1,15 @@
+name: Manual-Actions-Workflow
+
+on:
+  workflow_dispatch
+
+jobs:
+  RunTest:
+    runs-on: windows-latest
+
+    steps:
+      - name: Clonar o projeto
+        uses: actions/checkout@v3
+
+      - name: Say something
+        run: echo "Workflow iniciado manualmente"
