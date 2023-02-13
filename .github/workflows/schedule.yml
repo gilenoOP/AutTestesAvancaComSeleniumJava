@@ -2,7 +2,7 @@ name: Schedule Tests
 
 on:
   schedule:
-    - cron: '50/5 * 11 FEB *'
+    - cron: '*/5 * 11 FEB *'
 
 jobs:
   RunTest:
