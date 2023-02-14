@@ -35,7 +35,7 @@ Funcionalidade: Página de login
   @logoff-sucesso
   Cenário: Realizar logoff com sucesso
     Dado estou logado na aplicação
-    #Quando passo o mouse sobre o menu do nome do usuário logado no header
+    Quando passo o mouse sobre o menu do nome do usuário logado no header
     Quando clico em Logoff
     Então sistema realiza o logoff com sucesso
 

@@ -6,7 +6,7 @@ on:
 
 jobs:
   RunTest:
-    runs-on: linux-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Clonar o projeto
@@ -20,7 +20,7 @@ jobs:
           cache: 'maven'
 
       - name: Instalar o Chrome
-        uses: browser-actions/setup-chrome@v1
+        uses: browser-actions/setup-chrome@latest
 
       - name: Instalar o Chrome Driver
         uses: nanasess/setup-chromedriver@v1
