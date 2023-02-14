@@ -46,7 +46,7 @@ jobs:
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           SLACK_COLOR: ${{ job.status }}
-          SLACK_ICON: blob:https://web.whatsapp.com/1f8641c6-7423-4baa-8c3d-434651a93520
+          SLACK_ICON: https://image.similarpng.com/very-thumbnail/2021/05/Checkmark-green-tick-isolated-on-transparent-background-PNG.png
           SLACK_TITLE: "Mensagem"
           SLACK_MESSAGE: "Sucesso na execução de testes do PR :white_check_mark: "
           SLACK_USERNAME: ">>>SUCESSO<<<"
@@ -57,7 +57,7 @@ jobs:
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           SLACK_COLOR: ${{ job.status }}
-          SLACK_ICON: blob:https://web.whatsapp.com/53c03a90-e42f-4ea5-b559-747b115c28b8
+          SLACK_ICON: https://icon-library.com/images/failed-icon/failed-icon-7.jpg
           SLACK_TITLE: "Mensagem"
           SLACK_MESSAGE: "Falha na execução de testes do PR :fire: "
           SLACK_USERNAME: ">>>FALHA<<<"
