@@ -25,7 +25,7 @@
         "steps": [
           {
             "result": {
-              "duration": 15725848400,
+              "duration": 11308900400,
               "status": "passed"
             },
             "line": 14,
@@ -45,20 +45,20 @@
         "after": [
           {
             "result": {
-              "duration": 806800,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 73800,
+              "duration": 1455800,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 122000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -67,7 +67,7 @@
         "steps": [
           {
             "result": {
-              "duration": 119303800,
+              "duration": 174355800,
               "status": "passed"
             },
             "line": 18,
@@ -98,7 +98,7 @@
           },
           {
             "result": {
-              "duration": 244514600,
+              "duration": 54772200,
               "status": "passed"
             },
             "line": 19,
@@ -110,7 +110,7 @@
           },
           {
             "result": {
-              "duration": 26510900,
+              "duration": 44183800,
               "status": "passed"
             },
             "line": 20,
@@ -150,7 +150,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4892384800,
+              "duration": 7272764000,
               "status": "passed"
             },
             "line": 14,
@@ -170,20 +170,20 @@
         "after": [
           {
             "result": {
-              "duration": 73900,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 47400,
+              "duration": 189100,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 70100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -192,7 +192,7 @@
         "steps": [
           {
             "result": {
-              "duration": 167229500,
+              "duration": 192200900,
               "status": "passed"
             },
             "line": 18,
@@ -223,7 +223,7 @@
           },
           {
             "result": {
-              "duration": 239802400,
+              "duration": 53601400,
               "status": "passed"
             },
             "line": 19,
@@ -235,7 +235,7 @@
           },
           {
             "result": {
-              "duration": 25244000,
+              "duration": 37437900,
               "status": "passed"
             },
             "line": 20,
@@ -275,7 +275,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5147073000,
+              "duration": 5226954500,
               "status": "passed"
             },
             "line": 14,
@@ -295,20 +295,20 @@
         "after": [
           {
             "result": {
-              "duration": 74700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 64600,
+              "duration": 56300,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 54200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -317,7 +317,7 @@
         "steps": [
           {
             "result": {
-              "duration": 124769900,
+              "duration": 182340100,
               "status": "passed"
             },
             "line": 18,
@@ -348,7 +348,7 @@
           },
           {
             "result": {
-              "duration": 241187700,
+              "duration": 50594900,
               "status": "passed"
             },
             "line": 19,
@@ -360,7 +360,7 @@
           },
           {
             "result": {
-              "duration": 25656600,
+              "duration": 35198800,
               "status": "passed"
             },
             "line": 20,
@@ -400,7 +400,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4707932600,
+              "duration": 8571071900,
               "status": "passed"
             },
             "line": 14,
@@ -420,20 +420,20 @@
         "after": [
           {
             "result": {
-              "duration": 91700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 60200,
+              "duration": 50000,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 41600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -442,7 +442,7 @@
         "steps": [
           {
             "result": {
-              "duration": 163189000,
+              "duration": 183379200,
               "status": "passed"
             },
             "line": 18,
@@ -473,7 +473,7 @@
           },
           {
             "result": {
-              "duration": 257553000,
+              "duration": 48142600,
               "status": "passed"
             },
             "line": 19,
@@ -485,7 +485,7 @@
           },
           {
             "result": {
-              "duration": 26954600,
+              "duration": 32890100,
               "status": "passed"
             },
             "line": 20,
@@ -525,7 +525,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4975927900,
+              "duration": 7602846200,
               "status": "passed"
             },
             "line": 14,
@@ -545,20 +545,20 @@
         "after": [
           {
             "result": {
-              "duration": 71400,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 42300,
+              "duration": 78600,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 57700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -567,7 +567,7 @@
         "steps": [
           {
             "result": {
-              "duration": 159631400,
+              "duration": 179944100,
               "status": "passed"
             },
             "line": 18,
@@ -598,7 +598,7 @@
           },
           {
             "result": {
-              "duration": 244569600,
+              "duration": 48778500,
               "status": "passed"
             },
             "line": 19,
@@ -610,7 +610,7 @@
           },
           {
             "result": {
-              "duration": 20911200,
+              "duration": 32515600,
               "status": "passed"
             },
             "line": 20,
@@ -650,7 +650,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5050076900,
+              "duration": 6910627000,
               "status": "passed"
             },
             "line": 14,
@@ -670,20 +670,20 @@
         "after": [
           {
             "result": {
-              "duration": 59600,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 40600,
+              "duration": 43500,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 35200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -692,7 +692,7 @@
         "steps": [
           {
             "result": {
-              "duration": 142634500,
+              "duration": 184484100,
               "status": "passed"
             },
             "line": 18,
@@ -723,7 +723,7 @@
           },
           {
             "result": {
-              "duration": 239555400,
+              "duration": 49089900,
               "status": "passed"
             },
             "line": 19,
@@ -735,7 +735,7 @@
           },
           {
             "result": {
-              "duration": 22490300,
+              "duration": 33101400,
               "status": "passed"
             },
             "line": 20,
@@ -775,7 +775,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4426315400,
+              "duration": 7809383400,
               "status": "passed"
             },
             "line": 14,
@@ -795,20 +795,20 @@
         "after": [
           {
             "result": {
-              "duration": 93300,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 66500,
+              "duration": 48300,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 41000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -817,7 +817,7 @@
         "steps": [
           {
             "result": {
-              "duration": 140762700,
+              "duration": 176005300,
               "status": "passed"
             },
             "line": 32,
@@ -829,7 +829,7 @@
           },
           {
             "result": {
-              "duration": 282390700,
+              "duration": 62324300,
               "status": "passed"
             },
             "line": 33,
@@ -841,7 +841,7 @@
           },
           {
             "result": {
-              "duration": 733988600,
+              "duration": 631322700,
               "status": "passed"
             },
             "line": 34,
@@ -898,7 +898,7 @@
         "steps": [
           {
             "result": {
-              "duration": 14815755600,
+              "duration": 9409743600,
               "status": "passed"
             },
             "line": 14,
@@ -918,20 +918,20 @@
         "after": [
           {
             "result": {
-              "duration": 108100,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 75700,
+              "duration": 51300,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 27100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -940,7 +940,7 @@
         "steps": [
           {
             "result": {
-              "duration": 65277500,
+              "duration": 94232500,
               "status": "passed"
             },
             "line": 18,
@@ -966,7 +966,7 @@
           },
           {
             "result": {
-              "duration": 260449800,
+              "duration": 45655800,
               "status": "passed"
             },
             "line": 19,
@@ -978,7 +978,7 @@
           },
           {
             "result": {
-              "duration": 32204800,
+              "duration": 33922400,
               "status": "passed"
             },
             "line": 20,
@@ -1018,7 +1018,7 @@
         "steps": [
           {
             "result": {
-              "duration": 12243409300,
+              "duration": 6453486300,
               "status": "passed"
             },
             "line": 14,
@@ -1038,20 +1038,20 @@
         "after": [
           {
             "result": {
-              "duration": 53200,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 77600,
+              "duration": 63200,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 27400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -1060,7 +1060,7 @@
         "steps": [
           {
             "result": {
-              "duration": 66745900,
+              "duration": 101940600,
               "status": "passed"
             },
             "line": 18,
@@ -1086,7 +1086,7 @@
           },
           {
             "result": {
-              "duration": 236694600,
+              "duration": 52472400,
               "status": "passed"
             },
             "line": 19,
@@ -1098,7 +1098,7 @@
           },
           {
             "result": {
-              "duration": 22280600,
+              "duration": 33112700,
               "status": "passed"
             },
             "line": 20,
@@ -1138,7 +1138,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4951949000,
+              "duration": 6446292500,
               "status": "passed"
             },
             "line": 14,
@@ -1158,20 +1158,20 @@
         "after": [
           {
             "result": {
-              "duration": 167900,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 56700,
+              "duration": 54300,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 26800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -1180,7 +1180,7 @@
         "steps": [
           {
             "result": {
-              "duration": 88238400,
+              "duration": 113967400,
               "status": "passed"
             },
             "line": 18,
@@ -1206,7 +1206,7 @@
           },
           {
             "result": {
-              "duration": 249663000,
+              "duration": 48885600,
               "status": "passed"
             },
             "line": 19,
@@ -1218,7 +1218,7 @@
           },
           {
             "result": {
-              "duration": 26990100,
+              "duration": 36996900,
               "status": "passed"
             },
             "line": 20,
@@ -1258,7 +1258,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5616129300,
+              "duration": 5466783800,
               "status": "passed"
             },
             "line": 14,
@@ -1278,20 +1278,20 @@
         "after": [
           {
             "result": {
-              "duration": 71000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 67100,
+              "duration": 51800,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 26400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -1300,7 +1300,7 @@
         "steps": [
           {
             "result": {
-              "duration": 73661200,
+              "duration": 114710300,
               "status": "passed"
             },
             "line": 18,
@@ -1326,7 +1326,7 @@
           },
           {
             "result": {
-              "duration": 243586700,
+              "duration": 46516300,
               "status": "passed"
             },
             "line": 19,
@@ -1338,7 +1338,7 @@
           },
           {
             "result": {
-              "duration": 25803300,
+              "duration": 32270000,
               "status": "passed"
             },
             "line": 20,
@@ -1378,7 +1378,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4388497200,
+              "duration": 7772484800,
               "status": "passed"
             },
             "line": 14,
@@ -1398,20 +1398,20 @@
         "after": [
           {
             "result": {
-              "duration": 74600,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 71700,
+              "duration": 87700,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 26800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -1420,7 +1420,7 @@
         "steps": [
           {
             "result": {
-              "duration": 89426300,
+              "duration": 117329000,
               "status": "passed"
             },
             "line": 18,
@@ -1446,7 +1446,7 @@
           },
           {
             "result": {
-              "duration": 229928200,
+              "duration": 46237600,
               "status": "passed"
             },
             "line": 19,
@@ -1458,7 +1458,7 @@
           },
           {
             "result": {
-              "duration": 23006700,
+              "duration": 33847900,
               "status": "passed"
             },
             "line": 20,
@@ -1498,7 +1498,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4331693700,
+              "duration": 8808800800,
               "status": "passed"
             },
             "line": 14,
@@ -1518,20 +1518,20 @@
         "after": [
           {
             "result": {
-              "duration": 68600,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 67100,
+              "duration": 86200,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 40600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -1540,7 +1540,7 @@
         "steps": [
           {
             "result": {
-              "duration": 85852900,
+              "duration": 110673200,
               "status": "passed"
             },
             "line": 31,
@@ -1552,7 +1552,7 @@
           },
           {
             "result": {
-              "duration": 279161900,
+              "duration": 59062700,
               "status": "passed"
             },
             "line": 32,
@@ -1564,7 +1564,7 @@
           },
           {
             "result": {
-              "duration": 754431900,
+              "duration": 593908400,
               "status": "passed"
             },
             "line": 33,
@@ -1591,7 +1591,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5299474200,
+              "duration": 10981098800,
               "status": "passed"
             },
             "line": 14,
@@ -1611,20 +1611,20 @@
         "after": [
           {
             "result": {
-              "duration": 59300,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 52600,
+              "duration": 73200,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 40500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -1633,7 +1633,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1048802200,
+              "duration": 795360900,
               "status": "passed"
             },
             "line": 37,
@@ -1645,7 +1645,7 @@
           },
           {
             "result": {
-              "duration": 147216800,
+              "duration": 149952700,
               "status": "passed"
             },
             "line": 38,
@@ -1657,7 +1657,7 @@
           },
           {
             "result": {
-              "duration": 805868000,
+              "duration": 603499300,
               "status": "passed"
             },
             "line": 39,
@@ -1669,7 +1669,7 @@
           },
           {
             "result": {
-              "duration": 316769000,
+              "duration": 156417200,
               "status": "passed"
             },
             "line": 40,
@@ -1696,7 +1696,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5181201300,
+              "duration": 9013044400,
               "status": "passed"
             },
             "line": 14,
@@ -1716,20 +1716,20 @@
         "after": [
           {
             "result": {
-              "duration": 53000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginStep.afterScenario(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 54500,
+              "duration": 61900,
               "status": "passed"
             },
             "match": {
               "location": "CadastroStep.afterScenario(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 24000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginStep.afterScenario(Scenario)"
             }
           }
         ],
@@ -1738,7 +1738,7 @@
         "steps": [
           {
             "result": {
-              "duration": 239640900,
+              "duration": 48089800,
               "status": "passed"
             },
             "line": 44,
@@ -1750,7 +1750,7 @@
           },
           {
             "result": {
-              "duration": 839745500,
+              "duration": 278019200,
               "status": "passed"
             },
             "line": 45,

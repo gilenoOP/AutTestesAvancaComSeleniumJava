@@ -6,7 +6,7 @@ on:
 
 jobs:
   RunTest:
-    runs-on: windows-latest
+    runs-on: linux-latest
 
     steps:
       - name: Clonar o projeto
@@ -39,3 +39,25 @@ jobs:
         with:
           name: report-tests
           path: '**/formatedreport/'
+
+      - name: Enviar notificação Slack - Sucesso
+        if: ${{ success() }}
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_COLOR: ${{ job.status }}
+          SLACK_ICON: blob:https://web.whatsapp.com/1f8641c6-7423-4baa-8c3d-434651a93520
+          SLACK_TITLE: "Mensagem"
+          SLACK_MESSAGE: "Sucesso na execução de testes do PR :white_check_mark: "
+          SLACK_USERNAME: SUCESSO
+
+      - name: Enviar notificação Slack - Falha
+        if: ${{ failure() }}
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_COLOR: ${{ job.status }}
+          SLACK_ICON: blob:https://web.whatsapp.com/53c03a90-e42f-4ea5-b559-747b115c28b8
+          SLACK_TITLE: "Mensagem"
+          SLACK_MESSAGE: "Falha na execução de testes do PR :fire: "
+          SLACK_USERNAME: FALHA
