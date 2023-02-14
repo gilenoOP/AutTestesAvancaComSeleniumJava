@@ -157,7 +157,7 @@ formatter.match({
   "location": "CadastroStep.que_estou_na_tela_de_cadastro_de_usuários()"
 });
 formatter.result({
-  "duration": 15725848400,
+  "duration": 11308900400,
   "status": "passed"
 });
 formatter.scenario({
@@ -219,14 +219,14 @@ formatter.match({
   "location": "CadastroStep.preencho_os_campos_nome_email_e_senha(String,String,String)"
 });
 formatter.result({
-  "duration": 119303800,
+  "duration": 174355800,
   "status": "passed"
 });
 formatter.match({
   "location": "CadastroStep.clico_no_botão_de_cadastrar()"
 });
 formatter.result({
-  "duration": 244514600,
+  "duration": 54772200,
   "status": "passed"
 });
 formatter.match({
@@ -239,15 +239,15 @@ formatter.match({
   "location": "CadastroStep.sistema_apresenta_mensagem_na_tela_de_cadastro(String)"
 });
 formatter.result({
-  "duration": 26510900,
+  "duration": 44183800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 806800,
+  "duration": 1455800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 73800,
+  "duration": 122000,
   "status": "passed"
 });
 formatter.background({
@@ -266,7 +266,7 @@ formatter.match({
   "location": "CadastroStep.que_estou_na_tela_de_cadastro_de_usuários()"
 });
 formatter.result({
-  "duration": 4892384800,
+  "duration": 7272764000,
   "status": "passed"
 });
 formatter.scenario({
@@ -328,14 +328,14 @@ formatter.match({
   "location": "CadastroStep.preencho_os_campos_nome_email_e_senha(String,String,String)"
 });
 formatter.result({
-  "duration": 167229500,
+  "duration": 192200900,
   "status": "passed"
 });
 formatter.match({
   "location": "CadastroStep.clico_no_botão_de_cadastrar()"
 });
 formatter.result({
-  "duration": 239802400,
+  "duration": 53601400,
   "status": "passed"
 });
 formatter.match({
@@ -348,15 +348,15 @@ formatter.match({
   "location": "CadastroStep.sistema_apresenta_mensagem_na_tela_de_cadastro(String)"
 });
 formatter.result({
-  "duration": 25244000,
+  "duration": 37437900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 73900,
+  "duration": 189100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 47400,
+  "duration": 70100,
   "status": "passed"
 });
 formatter.background({
@@ -375,7 +375,7 @@ formatter.match({
   "location": "CadastroStep.que_estou_na_tela_de_cadastro_de_usuários()"
 });
 formatter.result({
-  "duration": 5147073000,
+  "duration": 5226954500,
   "status": "passed"
 });
 formatter.scenario({
@@ -437,14 +437,14 @@ formatter.match({
   "location": "CadastroStep.preencho_os_campos_nome_email_e_senha(String,String,String)"
 });
 formatter.result({
-  "duration": 124769900,
+  "duration": 182340100,
   "status": "passed"
 });
 formatter.match({
   "location": "CadastroStep.clico_no_botão_de_cadastrar()"
 });
 formatter.result({
-  "duration": 241187700,
+  "duration": 50594900,
   "status": "passed"
 });
 formatter.match({
@@ -457,15 +457,15 @@ formatter.match({
   "location": "CadastroStep.sistema_apresenta_mensagem_na_tela_de_cadastro(String)"
 });
 formatter.result({
-  "duration": 25656600,
+  "duration": 35198800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 74700,
+  "duration": 56300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 64600,
+  "duration": 54200,
   "status": "passed"
 });
 formatter.background({
@@ -484,7 +484,7 @@ formatter.match({
   "location": "CadastroStep.que_estou_na_tela_de_cadastro_de_usuários()"
 });
 formatter.result({
-  "duration": 4707932600,
+  "duration": 8571071900,
   "status": "passed"
 });
 formatter.scenario({
@@ -546,14 +546,14 @@ formatter.match({
   "location": "CadastroStep.preencho_os_campos_nome_email_e_senha(String,String,String)"
 });
 formatter.result({
-  "duration": 163189000,
+  "duration": 183379200,
   "status": "passed"
 });
 formatter.match({
   "location": "CadastroStep.clico_no_botão_de_cadastrar()"
 });
 formatter.result({
-  "duration": 257553000,
+  "duration": 48142600,
   "status": "passed"
 });
 formatter.match({
@@ -566,15 +566,15 @@ formatter.match({
   "location": "CadastroStep.sistema_apresenta_mensagem_na_tela_de_cadastro(String)"
 });
 formatter.result({
-  "duration": 26954600,
+  "duration": 32890100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 91700,
+  "duration": 50000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 60200,
+  "duration": 41600,
   "status": "passed"
 });
 formatter.background({
@@ -593,7 +593,7 @@ formatter.match({
   "location": "CadastroStep.que_estou_na_tela_de_cadastro_de_usuários()"
 });
 formatter.result({
-  "duration": 4975927900,
+  "duration": 7602846200,
   "status": "passed"
 });
 formatter.scenario({
@@ -655,14 +655,14 @@ formatter.match({
   "location": "CadastroStep.preencho_os_campos_nome_email_e_senha(String,String,String)"
 });
 formatter.result({
-  "duration": 159631400,
+  "duration": 179944100,
   "status": "passed"
 });
 formatter.match({
   "location": "CadastroStep.clico_no_botão_de_cadastrar()"
 });
 formatter.result({
-  "duration": 244569600,
+  "duration": 48778500,
   "status": "passed"
 });
 formatter.match({
@@ -675,15 +675,15 @@ formatter.match({
   "location": "CadastroStep.sistema_apresenta_mensagem_na_tela_de_cadastro(String)"
 });
 formatter.result({
-  "duration": 20911200,
+  "duration": 32515600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 71400,
+  "duration": 78600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 42300,
+  "duration": 57700,
   "status": "passed"
 });
 formatter.background({
@@ -702,7 +702,7 @@ formatter.match({
   "location": "CadastroStep.que_estou_na_tela_de_cadastro_de_usuários()"
 });
 formatter.result({
-  "duration": 5050076900,
+  "duration": 6910627000,
   "status": "passed"
 });
 formatter.scenario({
@@ -764,14 +764,14 @@ formatter.match({
   "location": "CadastroStep.preencho_os_campos_nome_email_e_senha(String,String,String)"
 });
 formatter.result({
-  "duration": 142634500,
+  "duration": 184484100,
   "status": "passed"
 });
 formatter.match({
   "location": "CadastroStep.clico_no_botão_de_cadastrar()"
 });
 formatter.result({
-  "duration": 239555400,
+  "duration": 49089900,
   "status": "passed"
 });
 formatter.match({
@@ -784,15 +784,15 @@ formatter.match({
   "location": "CadastroStep.sistema_apresenta_mensagem_na_tela_de_cadastro(String)"
 });
 formatter.result({
-  "duration": 22490300,
+  "duration": 33101400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 59600,
+  "duration": 43500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 40600,
+  "duration": 35200,
   "status": "passed"
 });
 formatter.background({
@@ -811,7 +811,7 @@ formatter.match({
   "location": "CadastroStep.que_estou_na_tela_de_cadastro_de_usuários()"
 });
 formatter.result({
-  "duration": 4426315400,
+  "duration": 7809383400,
   "status": "passed"
 });
 formatter.scenario({
@@ -847,29 +847,29 @@ formatter.match({
   "location": "CadastroStep.preencho_campos_obrigatórios_cadastro()"
 });
 formatter.result({
-  "duration": 140762700,
+  "duration": 176005300,
   "status": "passed"
 });
 formatter.match({
   "location": "CadastroStep.clico_no_botão_cadastrar()"
 });
 formatter.result({
-  "duration": 282390700,
+  "duration": 62324300,
   "status": "passed"
 });
 formatter.match({
   "location": "CadastroStep.sistema_realiza_cadastro_de_usuário_com_sucesso()"
 });
 formatter.result({
-  "duration": 733988600,
+  "duration": 631322700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 93300,
+  "duration": 48300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 66500,
+  "duration": 41000,
   "status": "passed"
 });
 formatter.uri("tela_login.feature");
@@ -1014,7 +1014,7 @@ formatter.match({
   "location": "LoginStep.que_estou_na_tela_de_login()"
 });
 formatter.result({
-  "duration": 14815755600,
+  "duration": 9409743600,
   "status": "passed"
 });
 formatter.scenario({
@@ -1071,14 +1071,14 @@ formatter.match({
   "location": "LoginStep.preencho_o_campo_email_e_senha(String,String)"
 });
 formatter.result({
-  "duration": 65277500,
+  "duration": 94232500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.clico_no_botão_de_login()"
 });
 formatter.result({
-  "duration": 260449800,
+  "duration": 45655800,
   "status": "passed"
 });
 formatter.match({
@@ -1091,15 +1091,15 @@ formatter.match({
   "location": "LoginStep.sistema_apresenta_mensagem_na_tela_de_login(String)"
 });
 formatter.result({
-  "duration": 32204800,
+  "duration": 33922400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 108100,
+  "duration": 51300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 75700,
+  "duration": 27100,
   "status": "passed"
 });
 formatter.background({
@@ -1118,7 +1118,7 @@ formatter.match({
   "location": "LoginStep.que_estou_na_tela_de_login()"
 });
 formatter.result({
-  "duration": 12243409300,
+  "duration": 6453486300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1175,14 +1175,14 @@ formatter.match({
   "location": "LoginStep.preencho_o_campo_email_e_senha(String,String)"
 });
 formatter.result({
-  "duration": 66745900,
+  "duration": 101940600,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.clico_no_botão_de_login()"
 });
 formatter.result({
-  "duration": 236694600,
+  "duration": 52472400,
   "status": "passed"
 });
 formatter.match({
@@ -1195,15 +1195,15 @@ formatter.match({
   "location": "LoginStep.sistema_apresenta_mensagem_na_tela_de_login(String)"
 });
 formatter.result({
-  "duration": 22280600,
+  "duration": 33112700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 53200,
+  "duration": 63200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 77600,
+  "duration": 27400,
   "status": "passed"
 });
 formatter.background({
@@ -1222,7 +1222,7 @@ formatter.match({
   "location": "LoginStep.que_estou_na_tela_de_login()"
 });
 formatter.result({
-  "duration": 4951949000,
+  "duration": 6446292500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1279,14 +1279,14 @@ formatter.match({
   "location": "LoginStep.preencho_o_campo_email_e_senha(String,String)"
 });
 formatter.result({
-  "duration": 88238400,
+  "duration": 113967400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.clico_no_botão_de_login()"
 });
 formatter.result({
-  "duration": 249663000,
+  "duration": 48885600,
   "status": "passed"
 });
 formatter.match({
@@ -1299,15 +1299,15 @@ formatter.match({
   "location": "LoginStep.sistema_apresenta_mensagem_na_tela_de_login(String)"
 });
 formatter.result({
-  "duration": 26990100,
+  "duration": 36996900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 167900,
+  "duration": 54300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 56700,
+  "duration": 26800,
   "status": "passed"
 });
 formatter.background({
@@ -1326,7 +1326,7 @@ formatter.match({
   "location": "LoginStep.que_estou_na_tela_de_login()"
 });
 formatter.result({
-  "duration": 5616129300,
+  "duration": 5466783800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1383,14 +1383,14 @@ formatter.match({
   "location": "LoginStep.preencho_o_campo_email_e_senha(String,String)"
 });
 formatter.result({
-  "duration": 73661200,
+  "duration": 114710300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.clico_no_botão_de_login()"
 });
 formatter.result({
-  "duration": 243586700,
+  "duration": 46516300,
   "status": "passed"
 });
 formatter.match({
@@ -1403,15 +1403,15 @@ formatter.match({
   "location": "LoginStep.sistema_apresenta_mensagem_na_tela_de_login(String)"
 });
 formatter.result({
-  "duration": 25803300,
+  "duration": 32270000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 71000,
+  "duration": 51800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 67100,
+  "duration": 26400,
   "status": "passed"
 });
 formatter.background({
@@ -1430,7 +1430,7 @@ formatter.match({
   "location": "LoginStep.que_estou_na_tela_de_login()"
 });
 formatter.result({
-  "duration": 4388497200,
+  "duration": 7772484800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1487,14 +1487,14 @@ formatter.match({
   "location": "LoginStep.preencho_o_campo_email_e_senha(String,String)"
 });
 formatter.result({
-  "duration": 89426300,
+  "duration": 117329000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.clico_no_botão_de_login()"
 });
 formatter.result({
-  "duration": 229928200,
+  "duration": 46237600,
   "status": "passed"
 });
 formatter.match({
@@ -1507,15 +1507,15 @@ formatter.match({
   "location": "LoginStep.sistema_apresenta_mensagem_na_tela_de_login(String)"
 });
 formatter.result({
-  "duration": 23006700,
+  "duration": 33847900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 74600,
+  "duration": 87700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 71700,
+  "duration": 26800,
   "status": "passed"
 });
 formatter.background({
@@ -1534,7 +1534,7 @@ formatter.match({
   "location": "LoginStep.que_estou_na_tela_de_login()"
 });
 formatter.result({
-  "duration": 4331693700,
+  "duration": 8808800800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1570,29 +1570,29 @@ formatter.match({
   "location": "LoginStep.preencho_campos_obrigatórios_login()"
 });
 formatter.result({
-  "duration": 85852900,
+  "duration": 110673200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.clico_no_botão_de_login()"
 });
 formatter.result({
-  "duration": 279161900,
+  "duration": 59062700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.sistema_realiza_login_com_sucesso()"
 });
 formatter.result({
-  "duration": 754431900,
+  "duration": 593908400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 68600,
+  "duration": 86200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 67100,
+  "duration": 40600,
   "status": "passed"
 });
 formatter.background({
@@ -1611,7 +1611,7 @@ formatter.match({
   "location": "LoginStep.que_estou_na_tela_de_login()"
 });
 formatter.result({
-  "duration": 5299474200,
+  "duration": 10981098800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1652,36 +1652,36 @@ formatter.match({
   "location": "LoginStep.estou_logado_na_aplicação()"
 });
 formatter.result({
-  "duration": 1048802200,
+  "duration": 795360900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.passo_o_mouse_sobre_o_menu_do_nome_do_usuário_logado_no_header()"
 });
 formatter.result({
-  "duration": 147216800,
+  "duration": 149952700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.clico_em_Logoff()"
 });
 formatter.result({
-  "duration": 805868000,
+  "duration": 603499300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.sistema_realiza_o_logoff_com_sucesso()"
 });
 formatter.result({
-  "duration": 316769000,
+  "duration": 156417200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 59300,
+  "duration": 73200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 52600,
+  "duration": 40500,
   "status": "passed"
 });
 formatter.background({
@@ -1700,7 +1700,7 @@ formatter.match({
   "location": "LoginStep.que_estou_na_tela_de_login()"
 });
 formatter.result({
-  "duration": 5181201300,
+  "duration": 9013044400,
   "status": "passed"
 });
 formatter.scenario({
@@ -1731,22 +1731,22 @@ formatter.match({
   "location": "LoginStep.clico_no_link_informando_não_ter_conta()"
 });
 formatter.result({
-  "duration": 239640900,
+  "duration": 48089800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStep.sistema_apresenta_tela_de_cadastro_de_usuário()"
 });
 formatter.result({
-  "duration": 839745500,
+  "duration": 278019200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 53000,
+  "duration": 61900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 54500,
+  "duration": 24000,
   "status": "passed"
 });
 });
