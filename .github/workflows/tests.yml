@@ -6,7 +6,7 @@ on:
 
 jobs:
   RunTest:
-    runs-on: windows-latest
+    runs-on: linux-latest
 
     steps:
       - name: Clonar o projeto
