@@ -57,7 +57,7 @@ jobs:
         if: ${{ failure() }}
         uses: rtCamp/action-slack-notify@v2
         env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_SCHEDULE }}
           SLACK_COLOR: ${{ job.status }}
           SLACK_ICON: https://icon-library.com/images/failed-icon/failed-icon-7.jpg
           SLACK_TITLE: "Mensagem"
