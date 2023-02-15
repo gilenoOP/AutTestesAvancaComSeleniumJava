@@ -46,7 +46,7 @@ jobs:
         if: ${{ success() }}
         uses: rtCamp/action-slack-notify@v2
         env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_SCHEDULE }}
           SLACK_COLOR: ${{ job.status }}
           SLACK_ICON: https://image.similarpng.com/very-thumbnail/2021/05/Checkmark-green-tick-isolated-on-transparent-background-PNG.png
           SLACK_TITLE: "Mensagem"
