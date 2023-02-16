@@ -74,10 +74,30 @@ Para melhor entendimento do que cada asterisco representa no cron, sugiro acessa
 https://crontab.guru/
 
 ## Configurando a notificação para o aplicativo Slack
+Para que a notificação do status dos testes seja enviado para o aplicativo Slack é necessário realizar os seguintes passos:
+### Aplicativo Slack
+- Instalar o aplicativo Slack no celular
+- Criar um canal no aplicativo Slack ou criar no passo mais à frente para que receba as mensagens
+### Criando o WebHooks de entrada
+É necessário criar o WebHooks de entrada para que seja possível a comunicação do workflow com o canal criado no aplicativo Slack. Pa ra isso basta:
+- Acessar o link https://home-hug4536.slack.com/apps/A0F7XDUAZ-webhooks-de-entrada?tab=more_info
+- Clicar no botão Adicionar ao Slack
+- Navegar até a seção Postar no Canal e informar o canal (se já tiver criado) ou clicar no link Crie um novo canal
+- Clicar no botão Adicionar intergração com o WenHooks de entrada, gerando uma linha de código
+### Configurando o WebHook de entrada gerado no workflow do Github
+- Acessar repositório > aba Settings
+- Acessar menu lateral esquerdo Secrets and variables > Actions
+- Clicar no botão New repository secret
+- Colocar no campo Nome um nome para a variável que vai guardar o segredo de acesso
+- Informar no campo Secret o código gerado do WebHook de entrada
 
+### Configurando o arquivo .yml que deseja colocar a função de envio de notificação para o aplicativo Slack
+- Editar o arquivo .yml de testes substituindo o nome da variável pelo nome da variável que você escolheu, tanto no bloco de notificação para sucesso, quanto no bloco de falha
+![img_7.png](img_7.png)
 
-
-
+### Personalizando as mensagens de notificação
+Como o workflow utilizado para realizar o envio de mensagens para o aplicativo Slack é o Slack Notify - GitHub Action, o criador disponibilizou um link onde explica a funcionalidade do workflow e lá constam informações que podem ajudar a personalizar a mensagem que será enviada para o aplicativo Slack:
+https://github.com/marketplace/actions/slack-notify
 
 # Instalação no servidor
 ## Pré requisitos
